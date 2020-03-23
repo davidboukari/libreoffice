@@ -1,5 +1,10 @@
 # libreoffice
 
+## Header & Footers
+
+* Format > Page > Tab Header > Header on
+* Format > Page > Tab Footer > Footer on
+
 ## Create a table of content
 
 * Insert > Table of Contents & Index > Table of Contents, Index or Bibliographie
