@@ -15,4 +15,8 @@
 
 * Tools > Chapter Numbering
 
+## Editing a style
+
+* Select the style in the combo at left top > In the selected Style there is a little combo to editing it
+
 
