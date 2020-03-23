@@ -13,6 +13,6 @@
 
 * See https://documentationelup.wordpress.com/2016/02/26/la-numerotation-des-partiessous-parties-dans-libreoffice-writer/
 
-Tools > Chapter Numbering
+* Tools > Chapter Numbering
 
 
